@@ -102,7 +102,15 @@
 | 黑色    | black  |  \#000000
 | 绿色    | green  |  \#00FF00
 | 灰色    | gray   |  \#999999
-    
+   
+   
+   
+   
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 | 
 
 ### 14、字符格式
 |       |       |         |
